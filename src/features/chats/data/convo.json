@@ -9,73 +9,73 @@
       "messages": [
         {
           "sender": "You",
-          "message": "See you later, Alex!",
-          "timestamp": "2024-08-24T11:15:15"
+          "message": "See you later, Alex!", 
+          "timestamp": 1724937315000
         },
         {
           "sender": "Alex",
           "message": "Alright, talk to you later!",
-          "timestamp": "2024-08-24T11:11:30"
+          "timestamp": 1724937090000
         },
         {
           "sender": "You",
           "message": "For sure. Anyway, I should get back to reviewing the project.",
-          "timestamp": "2024-08-23T09:26:50"
+          "timestamp": 1724844410000
         },
         {
           "sender": "Alex",
           "message": "Yeah, let me know what you think.",
-          "timestamp": "2024-08-23T09:25:15"
+          "timestamp": 1724844315000
         },
         {
           "sender": "You",
           "message": "Oh, nice! I've been waiting for that. I'll check it out later.",
-          "timestamp": "2024-08-23T09:24:30"
+          "timestamp": 1724844270000
         },
         {
           "sender": "Alex",
           "message": "They've added a dark mode option! It looks really sleek.",
-          "timestamp": "2024-08-23T09:23:10"
+          "timestamp": 1724844190000
         },
         {
           "sender": "You",
           "message": "No, not yet. What's new?",
-          "timestamp": "2024-08-23T09:22:00"
+          "timestamp": 1724844120000
         },
         {
           "sender": "Alex",
           "message": "By the way, have you seen the new feature update?",
-          "timestamp": "2024-08-23T09:21:05"
+          "timestamp": 1724844065000
         },
         {
           "sender": "You",
           "message": "Will do! Thanks, Alex.",
-          "timestamp": "2024-08-23T09:20:10"
+          "timestamp": 1724844010000
         },
         {
           "sender": "Alex",
           "message": "Great! Let me know if you need any help.",
-          "timestamp": "2024-08-23T09:19:20"
+          "timestamp": 1724843960000
         },
         {
           "sender": "You",
           "message": "Almost done. Just need to review a few things.",
-          "timestamp": "2024-08-23T09:18:45"
+          "timestamp": 1724843925000
         },
         {
           "sender": "Alex",
           "message": "I'm good, thanks! Did you finish the project?",
-          "timestamp": "2024-08-23T09:17:10"
+          "timestamp": 1724843830000
         },
         {
           "sender": "You",
           "message": "Hey Alex, I'm doing well! How about you?",
-          "timestamp": "2024-08-23T09:16:30"
+          "timestamp": 1724843790000
         },
         {
           "sender": "Alex",
           "message": "Hey Bob, how are you doing?",
-          "timestamp": "2024-08-23T09:15:00"
+          "timestamp": 1724843700000
         }
       ]
     },
